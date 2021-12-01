@@ -1,0 +1,7 @@
+Este projeto foi desenvolvido por mim, gabriel siqueira dos santos.
+O projeto faz parte de um processo seletivo para estágio, da empresa avonale.
+
+Ultilizei o java como stack principal, jpa e hibernate para persistir os dados e o banco de dados ultilizado foi o H2, 
+para o padrão de projeto foi escolhido foi o MVC( model, view, controller), como meu conhecimento em API se restringe ao acadêmico tive um pouco de dificuldade para implementar
+as classes DTO de erro.
+Não conseguir implementar as rotas de compra e pagamento, pois o tempo que tive durante esse periodo foi muito restrito. Mas, é algo que farei futuramente.
